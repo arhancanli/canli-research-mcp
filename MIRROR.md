@@ -5,7 +5,7 @@ installed, scanned and reviewed on its own. It is imported from the `mcp-researc
 [arhancanli/canlicapital](https://github.com/arhancanli/canlicapital/tree/main/mcp-research), which is
 where changes are made and tested; this repository is updated from it.
 
-Imported from canlicapital commit `10121fee41325d6e04a3b17715d1ca619a18bfd6`.
+Imported from canlicapital commit `4f517160563fa54482a49263344d3989004d4305` (tag `research-mcp-v0.3.0`).
 
 - npm: https://www.npmjs.com/package/canli-research-mcp
 - MCP Registry: `io.github.arhancanli/canli-research-mcp`
