@@ -19,7 +19,7 @@
     "test": "node --test test/*.test.mjs"
   },
   "dependencies": {
-    "@modelcontextprotocol/server": "2.3.1",
+    "@modelcontextprotocol/server": "2.4.0",
     "zod": "4.6.5"
   },
   "mcpName": "io.github.arhancanli/canli-research-mcp",
